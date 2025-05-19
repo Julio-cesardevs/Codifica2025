@@ -1,4 +1,5 @@
 # Exercícios de JavaScript - Propostos pelo Professor Jaques
+## curso: fullstack da +PraTI
 
 Este repositório contém uma série de exercícios de programação em JavaScript, todos propostos pelo professor durante as aulas. Os exercícios são focados em lógica básica, manipulação de entrada e saída via terminal, utilizando o módulo `readline` do Node.js.
 
